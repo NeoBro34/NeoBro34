@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Nurislom</h1>
-<h3 align="center">Full Stack Developer | 4+ years experience</h3>
+<h3 align="center">🚀 Full Stack Developer | 4+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+Scalable+Web+Applications;Passionate+About+AI+%26+Modern+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NeoBro34&label=Profile+views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌍 About Me
+## 🧠 About Me
 
-- 🇺🇿 From Uzbekistan  
-- 🇰🇷 Living in South Korea  
-- 💻 4+ years of experience in Web Development  
-- 🚀 Love building modern and scalable applications  
-- 🤝 Strong team player  
+- 💻 Full Stack Developer with **4+ years of experience**  
+- 🌍 From Uzbekistan 🇺🇿, currently based in South Korea 🇰🇷  
+- ⚡ Specialized in building **scalable, high-performance web applications**  
+- 🤖 Interested in **AI-powered solutions and modern technologies**  
+- 🤝 Strong team collaboration and problem-solving skills  
 
 ---
 
@@ -29,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql" />
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 </p>
@@ -38,30 +42,56 @@
 
 ## 🔥 Featured Projects
 
-### 🤖 AI Resume Analyzer
-- Upload CV and get AI-powered feedback  
-- Tech: Next.js, Node.js, OpenAI  
-
-### 🛒 E-commerce App
-- Fullstack shopping platform  
-- Auth, admin panel, API  
-
-### 📅 Booking App
-- Event booking system  
-- Real-time updates (Socket.io)  
+### 🤖 AI Resume Analyzer  
+🔹 AI-powered CV analysis platform  
+🔹 Provides smart feedback and scoring system  
+🔹 Built with Next.js, Node.js, OpenAI  
 
 ---
 
-## 📊 GitHub Stats
+### 🛒 E-Commerce Platform  
+🔹 Fullstack scalable shopping system  
+🔹 Authentication, admin dashboard, REST API  
+🔹 Modern UI/UX with optimized performance  
+
+---
+
+### 📅 Event Booking System  
+🔹 Real-time booking application  
+🔹 WebSocket integration (Socket.io)  
+🔹 Clean architecture and responsive design  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeoBro34&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoBro34&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NeoBro34&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NeoBro34&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBro34&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🏆 Achievements
 
-- 📧 Email: nurislomkhurramov@gmail.com  
+- 🚀 Built multiple fullstack production-ready applications  
+- 💼 4+ years of professional development experience  
+- 🌐 Experience working in international environment (South Korea)  
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  📧 Email: nurislomkhurramov@gmail.com <br/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>"Code. Build. Improve. Repeat."</i>
+</p>
