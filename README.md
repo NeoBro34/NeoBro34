@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer with **4+ years of experience**  
+- 💻 Full Stack & DevOps & AI Engineer with **4+ years of experience**  
 - 🌍 From Uzbekistan 🇺🇿, currently based in South Korea 🇰🇷  
 - ⚡ Specialized in building **scalable, high-performance web applications**  
 - 🤖 Interested in **AI-powered solutions and modern technologies**  
@@ -38,10 +38,19 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /> 
 </p>
 
+---
+
 ### 🧠 AI & Data Engineering
-<p> 
-  <img src="https://skillicons.dev/icons?i=python,pytorch" /> 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
+
+- 🤖 AI Agent Integration (Codex, Gemini, API models)  
+- 📊 NumPy, Pandas, Matplotlib  
+- 🧠 PyTorch  
+- 👁 Computer Vision (OpenCV)  
+
+---
 
 ### 🧰 DevOps & Tools
 <p>
@@ -73,34 +82,55 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NeoBro34&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NeoBro34&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NeoBro34&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBro34&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoBro34&theme=tokyonight" />
 </p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBro34&layout=compact&theme=tokyonight" />
+</p>
+
+## 🧠 Currently Learning
+
+- Advanced System Design  
+- AI Agents & Automation  
+- High Load Backend Architecture  
 
 ---
 
 ## 🏆 Achievements
 
-- 🚀 Built multiple fullstack production-ready applications  
-- 💼 4+ years of professional development experience  
-- 🌐 Experience working in international environment (South Korea)  
+- 🚀 Built scalable APIs & full-stack apps  
+- 🤖 Integrated AI into real-world projects  
+- ⚡ Optimized backend performance  
 
 ---
 
-## 📫 Let's Connect
+## 💬 Quote
 
+> "Code. Build. Scale. Repeat."
+
+---
+---
+
+## 🌐 Connect with me
 <p>
-  📧 Email: nurislomkhurramov@gmail.com <br/>
+  <a href="https://github.com/NeoBro34">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://t.me/KhurramovN_009">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="mailto:nurislomkhurramov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
-
----
 
 <p align="center">
   ⚡ <i>"Code. Build. Improve. Repeat."</i>
