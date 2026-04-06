@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurislom</h1>
-<h3 align="center">🚀 Full Stack Developer | 4+ Years Experience</h3>
+<h3 align="center">🚀 Full Stack & DevOps & AI Engineer | 4+ Years Experience</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+Scalable+Web+Applications;Passionate+About+AI+%26+Modern+Technologies" />
@@ -25,17 +25,27 @@
 
 ### 🖥 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,redux,tailwind,bootstrap,materialui" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php" />
 </p>
 
-### 🧰 Tools & DevOps
+### 🗄 Database & ORM
+<p> 
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /> 
+</p>
+
+### 🧠 AI & Data Engineering
+<p> 
+  <img src="https://skillicons.dev/icons?i=python,pytorch" /> 
+</p>
+
+### 🧰 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,ubuntu,vscode,postman,figma" />
 </p>
 
 ---
