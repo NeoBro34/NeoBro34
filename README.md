@@ -28,15 +28,36 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,redux,tailwind,bootstrap,materialui" />
 </p>
 
+- ⚡ HTML5, SCSS, Responsive UI  
+- ⚛️ React, Next.js, Vite  
+- 🎨 Tailwind, Bootstrap, MUI  
+- 🔄 Redux, React Query, Apollo Client  
+
+---
+
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php" />
 </p>
 
+- 🟢 Node.js (Express, NestJS)  
+- 🐍 Python (FastAPI)  
+- 🐘 PHP  
+- 🔗 REST API & GraphQL  
+- 🏗 Monorepo Architecture  
+- 🕷 Batch Crawling Systems  
+
+---
+
 ### 🗄 Database & ORM
-<p> 
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /> 
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
+
+- 🍃 MongoDB  
+- 🐬 MySQL  
+- ⚡ Redis  
+- 🧩 Prisma ORM  
 
 ---
 
@@ -56,6 +77,14 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,ubuntu,vscode,postman,figma" />
 </p>
+
+- 🐳 Docker  
+- 🌐 Nginx, Apache  
+- ⚙️ PM2 Process Manager  
+- 🐧 Linux (Ubuntu, Shell scripting)  
+- 🔧 Git, GitHub  
+- 🧪 Postman  
+- 🎨 Figma  
 
 ---
 
