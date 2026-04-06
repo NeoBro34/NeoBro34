@@ -124,12 +124,19 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NeoBro34/NeoBro34/output/snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoBro34&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 
+---
+
+## ⚡ GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeoBro34&theme=tokyonight" />
+</p>
 ---
 
 ## 🧠 Currently Learning
