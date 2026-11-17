@@ -1,180 +1,79 @@
-<h1 align="center">Hi 👋, I'm Nurislom</h1>
-<h3 align="center">🚀 Full Stack & DevOps & AI Engineer | 4+ Years Experience</h3>
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║  NeoBro34 · profile README — custom animated SVGs in /assets  ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+Scalable+Web+Applications;Passionate+About+AI+%26+Modern+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NeoBro34&label=Profile+views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 💻 Full Stack & DevOps & AI Engineer with **4+ years of experience**  
-- 🌍 From Uzbekistan 🇺🇿, currently based in South Korea 🇰🇷  
-- ⚡ Specialized in building **scalable, high-performance web applications**  
-- 🤖 Interested in **AI-powered solutions and modern technologies**  
-- 🤝 Strong team collaboration and problem-solving skills  
-
----
-
-## 🚀 Tech Stack
-
-### 🖥 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,redux,tailwind,bootstrap,materialui" />
-</p>
-
-- ⚡ HTML5, SCSS, Responsive UI  
-- ⚛️ React, Next.js, Vite  
-- 🎨 Tailwind, Bootstrap, MUI  
-- 🔄 Redux, React Query, Apollo Client  
-
----
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php" />
-</p>
-
-- 🟢 Node.js (Express, NestJS)  
-- 🐍 Python (FastAPI)  
-- 🐘 PHP  
-- 🔗 REST API & GraphQL  
-- 🏗 Monorepo Architecture  
-- 🕷 Batch Crawling Systems  
-
----
-
-### 🗄 Database & ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
-
-- 🍃 MongoDB  
-- 🐬 MySQL  
-- ⚡ Redis  
-- 🧩 Prisma ORM  
-
----
-
-### 🧠 AI & Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-- 🤖 AI Agent Integration (Codex, Gemini, API models)  
-- 📊 NumPy, Pandas, Matplotlib  
-- 🧠 PyTorch  
-- 👁 Computer Vision (OpenCV)  
-
----
-
-### 🧰 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,ubuntu,vscode,postman,figma" />
-</p>
-
-- 🐳 Docker  
-- 🌐 Nginx, Apache  
-- ⚙️ PM2 Process Manager  
-- 🐧 Linux (Ubuntu, Shell scripting)  
-- 🔧 Git, GitHub  
-- 🧪 Postman  
-- 🎨 Figma  
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 AI Resume Analyzer  
-🔹 AI-powered CV analysis platform  
-🔹 Provides smart feedback and scoring system  
-🔹 Built with Next.js, Node.js, OpenAI  
-
----
-
-### 🛒 E-Commerce Platform  
-🔹 Fullstack scalable shopping system  
-🔹 Authentication, admin dashboard, REST API  
-🔹 Modern UI/UX with optimized performance  
-
----
-
-### 📅 Event Booking System  
-🔹 Real-time booking application  
-🔹 WebSocket integration (Socket.io)  
-🔹 Clean architecture and responsive design  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NeoBro34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NeoBro34&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="./assets/hero.svg" width="100%" alt="Nurislom Khurramov — Full Stack, DevOps & AI Engineer"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBro34&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+  <a href="https://t.me/KhurramovN_009"><img src="https://img.shields.io/badge/Telegram-0B0F15?style=for-the-badge&logo=telegram&logoColor=00F7FF" alt="Telegram"/></a>
+  <a href="mailto:nurislomkhurramov@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F15?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email"/></a>
+  <a href="https://github.com/NeoBro34?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0B0F15?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Repositories"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NeoBro34&style=for-the-badge&color=0B0F15&label=VIEWS" alt="Profile views"/>
 </p>
 
----
+<br/>
 
-## 📈 Contribution Graph
+<!-- ───────────────────────── 01 · ABOUT ───────────────────────── -->
+<img src="./assets/h-about.svg" width="100%" alt="01 — About me"/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoBro34&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+  <img src="./assets/terminal.svg" width="100%" alt="whoami: Nurislom — full stack, devops & AI engineer with 4+ years, based in Seoul, building FoodieKorea"/>
 </p>
 
----
-
-## ⚡ GitHub Summary
+<!-- ───────────────────────── 02 · PROJECTS ───────────────────────── -->
+<img src="./assets/h-projects.svg" width="100%" alt="02 — Featured projects"/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeoBro34&theme=tokyonight" />
+  <a href="https://github.com/NeoBro34/REPO_FOODIEKOREA"><img src="./assets/card-foodiekorea.svg" width="49%" alt="FoodieKorea — multi-store SaaS for restaurant operations"/></a>
+  <a href="https://github.com/NeoBro34/REPO_RESUME"><img src="./assets/card-resume.svg" width="49%" alt="AI Resume Analyzer"/></a>
 </p>
----
+<p align="center">
+  <a href="https://github.com/NeoBro34/REPO_ECOMMERCE"><img src="./assets/card-ecommerce.svg" width="49%" alt="E-Commerce Platform"/></a>
+  <a href="https://github.com/NeoBro34/REPO_BOOKING"><img src="./assets/card-booking.svg" width="49%" alt="Event Booking System"/></a>
+</p>
 
-## 🧠 Currently Learning
+<!-- ───────────────────────── 03 · STACK ───────────────────────── -->
+<img src="./assets/h-stack.svg" width="100%" alt="03 — Tech stack"/>
 
-- Advanced System Design  
-- AI Agents & Automation  
-- High Load Backend Architecture  
-
----
-
-## 🏆 Achievements
-
-- 🚀 Built scalable APIs & full-stack apps  
-- 🤖 Integrated AI into real-world projects  
-- ⚡ Optimized backend performance  
-
----
-
-## 💬 Quote
-
-> "Code. Build. Scale. Repeat."
-
----
----
-
-## 🌐 Connect with me
-<p>
-  <a href="https://github.com/NeoBro34">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://t.me/KhurramovN_009">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="mailto:nurislomkhurramov@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+<p align="center">
+  <img src="./assets/stack-marquee.svg" width="100%" alt="TypeScript, React, Next.js, tRPC, NestJS, FastAPI, PostgreSQL, Drizzle, Redis, Docker, PyTorch and more"/>
 </p>
 
 <p align="center">
-  ⚡ <i>"Code. Build. Improve. Repeat."</i>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,fastapi,python,graphql,postgres,mongodb,redis,prisma,docker,nginx,linux,githubactions,pytorch&perline=9" alt="Tech icons"/>
+</p>
+
+<!-- ───────────────────────── 04 · ACTIVITY ───────────────────────── -->
+<img src="./assets/h-activity.svg" width="100%" alt="04 — GitHub activity"/>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NeoBro34&show_icons=true&hide_border=true&bg_color=0B0F15&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&ring_color=8B5CF6&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoBro34&layout=compact&hide_border=true&bg_color=0B0F15&title_color=00F7FF&text_color=C9D1D9" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NeoBro34&hide_border=true&background=0B0F15&ring=8B5CF6&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+</p>
+
+<!-- Snake is generated by .github/workflows/snake.yml into the `output` branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeoBro34/NeoBro34/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeoBro34/NeoBro34/output/snake-light.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/NeoBro34/NeoBro34/output/snake-dark.svg" alt="Snake eating my contribution graph"/>
+  </picture>
+</p>
+
+<!-- ───────────────────────── 05 · CONNECT ───────────────────────── -->
+<img src="./assets/h-connect.svg" width="100%" alt="05 — Let's connect"/>
+
+<p align="center">
+  <a href="https://t.me/KhurramovN_009"><img src="https://img.shields.io/badge/Write_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:nurislomkhurramov@gmail.com"><img src="https://img.shields.io/badge/nurislomkhurramov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Code · Build · Scale · Repeat"/>
 </p>
