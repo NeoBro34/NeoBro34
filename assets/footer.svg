@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Thanks for visiting">
+<style>
+.w1{animation:mv 14s linear infinite}.w2{animation:mv 9s linear infinite reverse}.w3{animation:mv 20s linear infinite}
+@keyframes mv{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+.q{font:700 22px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:6px}
+.s{font:500 13px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;fill:#8B949E;letter-spacing:2px}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.up,.chip{opacity:1!important}}
+</style>
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F7FF"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#8B5CF6"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-.5 0;.5 0;-.5 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="200" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<path class="w3" d="M0 120 Q100 102 200 120 T400 120 Q500 102 600 120 T800 120 Q900 102 1000 120 T1200 120 Q1300 102 1400 120 T1600 120 Q1700 102 1800 120 T2000 120 Q2100 102 2200 120 T2400 120 V200 H0Z" fill="#8B5CF6" opacity=".18"/>
+<path class="w1" d="M0 136 Q100 122 200 136 T400 136 Q500 122 600 136 T800 136 Q900 122 1000 136 T1200 136 Q1300 122 1400 136 T1600 136 Q1700 122 1800 136 T2000 136 Q2100 122 2200 136 T2400 136 V200 H0Z" fill="#00F7FF" opacity=".16"/>
+<path class="w2" d="M0 152 Q100 142 200 152 T400 152 Q500 142 600 152 T800 152 Q900 142 1000 152 T1200 152 Q1300 142 1400 152 T1600 152 Q1700 142 1800 152 T2000 152 Q2100 142 2200 152 T2400 152 V200 H0Z" fill="#3B82F6" opacity=".22"/>
+</g>
+<text x="600" y="64" text-anchor="middle" class="q" fill="url(#tg)">CODE · BUILD · SCALE · REPEAT</text>
+<text x="600" y="96" text-anchor="middle" class="s">THANKS FOR VISITING — LET'S BUILD SOMETHING GREAT</text>
+</svg>

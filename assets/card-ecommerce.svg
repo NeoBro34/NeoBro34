@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300" role="img" aria-label="E-Commerce Platform">
+<style>
+.t{font:700 25px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#F0F6FC}
+.d{font:400 15.5px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#9DA7B3}
+.pl{font:600 12.5px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+.s{font:700 11.5px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:1.5px}
+.cta{font:600 14px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;fill:#00F7FF}
+.ar{animation:nudge 1.6s ease-in-out infinite}
+@keyframes nudge{50%{transform:translateX(6px)}}
+.glow{animation:g 5s ease-in-out infinite alternate}
+@keyframes g{from{opacity:.25;transform:translate(0,0)}to{opacity:.6;transform:translate(-60px,30px)}}
+.pd{animation:pulse 1.8s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{to{opacity:0;transform:scale(2.8)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.up,.chip{opacity:1!important}}
+</style>
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#00F7FF"/><stop offset=".33" stop-color="#8B5CF6"/><stop offset=".66" stop-color="#EC4899" stop-opacity=".6"/><stop offset="1" stop-color="#00F7FF"/>
+<animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="6s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="rg"><stop offset="0" stop-color="#F59E0B" stop-opacity=".55"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient>
+<clipPath id="cl"><rect x="2" y="2" width="586" height="296" rx="18"/></clipPath>
+</defs>
+<rect x="1" y="1" width="588" height="298" rx="19" fill="url(#bd)" opacity=".9"/>
+<g clip-path="url(#cl)">
+<rect width="590" height="300" fill="#0B0F15"/>
+<circle class="glow" cx="550" cy="30" r="190" fill="url(#rg)"/>
+</g>
+<g class="in">
+<rect x="34" y="32" width="52" height="52" rx="14" fill="#161D27" stroke="#2A3441"/>
+<text x="60" y="68" text-anchor="middle" font-size="26">🛒</text>
+<text x="102" y="68" class="t">E-Commerce Platform</text>
+<g transform="translate(424.0,26)">
+<rect width="132.0" height="26" rx="13" fill="#F59E0B" fill-opacity=".14" stroke="#F59E0B" stroke-opacity=".5"/>
+<circle cx="14" cy="13" r="4" fill="#F59E0B"/><circle class="pd" cx="14" cy="13" r="4" fill="#F59E0B"/>
+<text x="25" y="17.5" class="s" fill="#F59E0B">FULL STACK</text></g>
+<text x="34" y="128" class="d">Scalable shopping system with authentication, admin</text><text x="34" y="152" class="d">dashboard, REST API and a fast, modern UI.</text>
+<rect x="34.0" y="222" width="65.5" height="28" rx="8" fill="#61DAFB" fill-opacity=".12" stroke="#61DAFB" stroke-opacity=".45"/><text x="66.8" y="241" text-anchor="middle" class="pl" fill="#61DAFB">React</text><rect x="107.5" y="222" width="81.3" height="28" rx="8" fill="#68D391" fill-opacity=".12" stroke="#68D391" stroke-opacity=".45"/><text x="148.2" y="241" text-anchor="middle" class="pl" fill="#68D391">Node.js</text><rect x="196.8" y="222" width="89.2" height="28" rx="8" fill="#F59E0B" fill-opacity=".12" stroke="#F59E0B" stroke-opacity=".45"/><text x="241.4" y="241" text-anchor="middle" class="pl" fill="#F59E0B">REST API</text>
+<g class="ar"><text x="556" y="278" text-anchor="end" class="cta">view project →</text></g>
+</g>
+</svg>

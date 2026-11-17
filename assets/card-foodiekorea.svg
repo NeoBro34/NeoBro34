@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300" role="img" aria-label="FoodieKorea">
+<style>
+.t{font:700 25px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#F0F6FC}
+.d{font:400 15.5px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#9DA7B3}
+.pl{font:600 12.5px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+.s{font:700 11.5px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:1.5px}
+.cta{font:600 14px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;fill:#00F7FF}
+.ar{animation:nudge 1.6s ease-in-out infinite}
+@keyframes nudge{50%{transform:translateX(6px)}}
+.glow{animation:g 5s ease-in-out infinite alternate}
+@keyframes g{from{opacity:.25;transform:translate(0,0)}to{opacity:.6;transform:translate(-60px,30px)}}
+.pd{animation:pulse 1.8s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{to{opacity:0;transform:scale(2.8)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.up,.chip{opacity:1!important}}
+</style>
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#00F7FF"/><stop offset=".33" stop-color="#8B5CF6"/><stop offset=".66" stop-color="#EC4899" stop-opacity=".6"/><stop offset="1" stop-color="#00F7FF"/>
+<animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="6s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="rg"><stop offset="0" stop-color="#22C55E" stop-opacity=".55"/><stop offset="1" stop-color="#22C55E" stop-opacity="0"/></radialGradient>
+<clipPath id="cl"><rect x="2" y="2" width="586" height="296" rx="18"/></clipPath>
+</defs>
+<rect x="1" y="1" width="588" height="298" rx="19" fill="url(#bd)" opacity=".9"/>
+<g clip-path="url(#cl)">
+<rect width="590" height="300" fill="#0B0F15"/>
+<circle class="glow" cx="550" cy="30" r="190" fill="url(#rg)"/>
+</g>
+<g class="in">
+<rect x="34" y="32" width="52" height="52" rx="14" fill="#161D27" stroke="#2A3441"/>
+<text x="60" y="68" text-anchor="middle" font-size="26">🍽️</text>
+<text x="102" y="68" class="t">FoodieKorea</text>
+<g transform="translate(424.0,26)">
+<rect width="132.0" height="26" rx="13" fill="#22C55E" fill-opacity=".14" stroke="#22C55E" stroke-opacity=".5"/>
+<circle cx="14" cy="13" r="4" fill="#22C55E"/><circle class="pd" cx="14" cy="13" r="4" fill="#22C55E"/>
+<text x="25" y="17.5" class="s" fill="#22C55E">PRODUCTION</text></g>
+<text x="34" y="128" class="d">Multi-store SaaS for restaurant operations — daily</text><text x="34" y="152" class="d">close, inventory, purchases, expenses, staff schedules</text><text x="34" y="176" class="d">and real-time alerts.</text>
+<rect x="34.0" y="222" width="81.3" height="28" rx="8" fill="#E6EDF3" fill-opacity=".12" stroke="#E6EDF3" stroke-opacity=".45"/><text x="74.7" y="241" text-anchor="middle" class="pl" fill="#E6EDF3">Next.js</text><rect x="123.3" y="222" width="57.6" height="28" rx="8" fill="#60A5FA" fill-opacity=".12" stroke="#60A5FA" stroke-opacity=".45"/><text x="152.1" y="241" text-anchor="middle" class="pl" fill="#60A5FA">tRPC</text><rect x="188.9" y="222" width="81.3" height="28" rx="8" fill="#C5F74F" fill-opacity=".12" stroke="#C5F74F" stroke-opacity=".45"/><text x="229.6" y="241" text-anchor="middle" class="pl" fill="#C5F74F">Drizzle</text><rect x="278.2" y="222" width="105.0" height="28" rx="8" fill="#60A5FA" fill-opacity=".12" stroke="#60A5FA" stroke-opacity=".45"/><text x="330.7" y="241" text-anchor="middle" class="pl" fill="#60A5FA">PostgreSQL</text><rect x="391.2" y="222" width="97.1" height="28" rx="8" fill="#E6EDF3" fill-opacity=".12" stroke="#E6EDF3" stroke-opacity=".45"/><text x="439.8" y="241" text-anchor="middle" class="pl" fill="#E6EDF3">Socket.IO</text>
+<g class="ar"><text x="556" y="278" text-anchor="end" class="cta">view project →</text></g>
+</g>
+</svg>

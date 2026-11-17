@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="LET&#x27;S CONNECT">
+<style>
+.n{font:600 15px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;fill:#00F7FF}
+.h{font:800 26px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#E6EDF3;letter-spacing:3px}
+.sq{animation:b 1.2s steps(1) infinite}
+@keyframes b{50%{opacity:.15}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.up,.chip{opacity:1!important}}
+</style>
+<defs><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#00F7FF" stop-opacity=".9"/><stop offset=".4" stop-color="#8B5CF6" stop-opacity=".5"/><stop offset="1" stop-color="#00F7FF" stop-opacity="0"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g class="in">
+<rect class="sq" x="4" y="30" width="12" height="12" fill="#00F7FF"/>
+<text x="30" y="43" class="n">05</text>
+<text x="66" y="46" class="h">LET&#x27;S CONNECT</text>
+</g>
+<rect x="362" y="37" width="838" height="2" fill="url(#ln)"/>
+<rect y="36" width="120" height="4" rx="2" fill="url(#sh)" opacity=".8">
+<animate attributeName="x" values="362;1200" dur="3.2s" repeatCount="indefinite"/></rect>
+</svg>
