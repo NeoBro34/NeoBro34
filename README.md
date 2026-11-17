@@ -26,12 +26,12 @@
 <img src="./assets/h-projects.svg" width="100%" alt="02 — Featured projects"/>
 
 <p align="center">
-  <a href="https://github.com/NeoBro34/REPO_FOODIEKOREA"><img src="./assets/card-foodiekorea.svg" width="49%" alt="FoodieKorea — multi-store SaaS for restaurant operations"/></a>
+  <a href="https://github.com/NeoBro34/foodikorea-store-manager"><img src="./assets/card-foodiekorea.svg" width="49%" alt="FoodieKorea — multi-store SaaS for restaurant operations"/></a>
   <a href="https://github.com/NeoBro34/REPO_RESUME"><img src="./assets/card-resume.svg" width="49%" alt="AI Resume Analyzer"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/NeoBro34/REPO_ECOMMERCE"><img src="./assets/card-ecommerce.svg" width="49%" alt="E-Commerce Platform"/></a>
-  <a href="https://github.com/NeoBro34/REPO_BOOKING"><img src="./assets/card-booking.svg" width="49%" alt="Event Booking System"/></a>
+  <a href="https://github.com/NeoBro34/bestFood-react"><img src="./assets/card-ecommerce.svg" width="49%" alt="E-Commerce Platform"/></a>
+  <a href="https://github.com/NeoBro34/hanBooking-next"><img src="./assets/card-booking.svg" width="49%" alt="Event Booking System"/></a>
 </p>
 
 <!-- ───────────────────────── 03 · STACK ───────────────────────── -->
